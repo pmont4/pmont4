@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Paulo Monterroso</h1>
 <h3 align="center">A passionate junior developer looking for increase my knowledge and increase my experiences</h3>
 
-- 🌱 I’m currently learning **REST Services for Java**
+- 🌱 I’m currently learning **Web services development**
 
-- 💬 Ask me about **Java Backend development**
+- 💬 Ask me about **Java development**
 
 - 📫 How to reach me **pauloamont2005@outlook.com**
 
