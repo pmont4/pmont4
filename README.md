@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Paulo Monterroso</h1>
-<h3 align="center">A passionate junior developer looking for increase my knowledge and increase my experiences</h3>
+<h3 align="center">A passionate junior developer looking for increase my knowledge and experiences</h3>
 
 - 🌱 I’m currently learning **web services development**
 
