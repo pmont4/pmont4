@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **web services development**
 
-- 💬 Ask me about **Java development**
-
 - 📫 How to reach me **pauloamont2005@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
